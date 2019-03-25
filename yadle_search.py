@@ -31,9 +31,7 @@
 # appid - (required) This is one of your organization's valid app id's. 
 #         If you do not know your app id, contact a Yadle representative
 # 
-# apiserver - (required) The url of you organization's Yadle API server; 
-#             typically the organization name followed by a 1.
-#             e.g.: https://microsoft1.yadle.com
+# apiserver - (required) The url of you organization's Yadle API server
 #
 # skip - (optional) The point from which the search results 
 #        returned to you should start.
