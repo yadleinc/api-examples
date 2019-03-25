@@ -1,3 +1,20 @@
+#
+#	Copyright (c) 2016-2019 Datawhere Inc.  All rights reserved.
+#
+#	This software is the confidential and proprietary information 
+# 	("Confidential Information") of Datawhere Inc.("Datawhere")  You 
+#	shall not disclose such Confidential Information and shall use it 
+#	only in accordance with the terms of the license agreement you 
+#	entered into with Datawhere.
+#
+#	DATAWHERE MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE 
+#	SUITABILITY OF THE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING 
+# 	BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, 
+#	FITNESS FOR A PARTICULAR  PURPOSE, OR NON-INFRINGEMENT. DATAWHERE 
+#	SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT 
+#	OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.
+
+#
 # The code below does the following things:
 # 1) authenticates (logs in to your yadle account)
 # 2) does a search
